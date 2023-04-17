@@ -39,8 +39,8 @@ const initializer = () => {
   // Font size to 7
   for (let i = 1; i <= 7; i++) {
     let option = document.createElement("option");
-    option.value = i;
-    option.innerHTML = i;
+    option.value = (i * 3 + 3) + "px";
+    option.innerHTML = (i * 3 + 3) + "px";
     fontSizeRef.appendChild(option);
   }
 
