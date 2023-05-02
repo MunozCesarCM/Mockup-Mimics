@@ -1,5 +1,7 @@
 # WYSIWYG Editor
 
+## [View Site ↗️](https://munozcesarcm.github.io/WYSIWYG-Editor/)
+
 This is a What-You-See-Is-What-You-Get (WYSIWYG) editor built using HTML, CSS, and JavaScript. The purpose of this editor is to provide a simple interface for formatting text using basic HTML tags.
 
 # Table of Contents
